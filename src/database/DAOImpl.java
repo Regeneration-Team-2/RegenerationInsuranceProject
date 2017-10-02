@@ -111,7 +111,7 @@ public class DAOImpl implements DAO {
         }
     }
 
-    //easy way
+    //easy way!!!
     @Override
     public void sortedPlatesFromDatabase() {
         List<Vehicle> myPlates = getVehicles();
